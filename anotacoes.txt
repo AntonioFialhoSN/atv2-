@@ -1,0 +1,12 @@
+O projeto tem como objetivo:
+- Este trabalho individual visa explorar o impacto da taxa de aprendizado (α) e da inicialização dos parâmetros (θ inicial) no comportamento do algoritmo de descida do gradiente para regressão linear, bem como a implementação dos componentes básicos da regressão linear.
+- Os objetivos específicos são:
+    + Avaliar a influência da taxa de aprendizado na convergência da função custo.
+    + Analisar a importância da inicialização dos pesos (θ) e suas implicações no processo de aprendizagem.
+    + Implementar os componentes fundamentais do algoritmo de regressão linear para consolidar o entendimento teórico e prático:
+    + warm_up_exercise.py: exercícios de aquecimentos com matriz identidade
+    + plot_data.py: visualização gráfica dos dados
+    + compute_cost.py: cálculo da função de custo J(θ)
+    + gradient_descent.py: execução da descida do gradiente
+
+
