@@ -9,4 +9,15 @@ O projeto tem como objetivo:
     + compute_cost.py: cálculo da função de custo J(θ)
     + gradient_descent.py: execução da descida do gradiente
 
+Relatório de Atividades – Regressão Linear com Gradiente Descendente
+
+Neste trabalho, inicialmente busquei entender qual era o objetivo da atividade. Após analisar os enunciados e o código fornecido, percebi que o foco era a implementação e compreensão de uma regressão linear utilizando o método de descida do gradiente.
+
+O assunto central gira em torno da função de custo (mean squared error) e do algoritmo de gradient descent, que são fundamentais para ajustar os parâmetros do modelo e minimizar o erro entre as previsões e os valores reais.
+
+Passei a analisar o código das funções envolvidas, especialmente a compute_cost, responsável por calcular o erro médio quadrático, e a gradient_descent, que ajusta os parâmetros theta iterativamente. Também estudei funções auxiliares que ajudam a visualizar os dados e estruturar o modelo, como warm_up_exercise3, warm_up_exercise4, e warm_up_exercise5.
+
+Implementei o código conforme os espaços a serem preenchidos, testei os resultados e acompanhei a evolução do custo ao longo das iterações. A cada iteração, o custo foi diminuindo, o que indicou que o modelo estava aprendendo.
+
+Além disso, compreendi que a adição do termo de bias (coluna de 1s), a predição com X @ theta, e o cálculo do gradiente são passos essenciais na construção da regressão linear.
 
