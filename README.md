@@ -26,4 +26,4 @@ regressao-linear-ex1_<SeuNome>/
 ```
 ---
 ## IMPORTANTE
-Antes de Rodar o código no colab, suba o arquivo "ex1data1.txt" para a pasta content do github. 
+Antes de Rodar o código no colab, suba o arquivo "ex1data1.txt" para a pasta content do Google Colab. 
