@@ -21,3 +21,18 @@ Implementei o código conforme os espaços a serem preenchidos, testei os result
 
 Além disso, compreendi que a adição do termo de bias (coluna de 1s), a predição com X @ theta, e o cálculo do gradiente são passos essenciais na construção da regressão linear.
 
+
+
+Para o professor:
+Prezados,
+
+Gostaria de relatar uma dificuldade técnica encontrada durante a execução do trabalho. Ao tentar acessar o pacote Office através do link institucional disponibilizado, verifiquei que não havia produtos disponíveis para utilização em minha conta.
+
+Diante desse impasse, adotei uma solução alternativa utilizando o Google Docs. Para garantir o registro adequado das alterações, compartilhei o documento com uma conta privada secundária. Dessa forma, todas as edições realizadas pela conta institucional ficaram devidamente registradas na aba "Histórico de versões" e "Comentários" da plataforma.
+
+Segue o link do documento para referência:
+
+https://docs.google.com/document/d/1CYECWxwq_mpWdgRVrv88OR2j7HBEVZn4OxY0nShma_U/edit?usp=sharing
+
+
+
